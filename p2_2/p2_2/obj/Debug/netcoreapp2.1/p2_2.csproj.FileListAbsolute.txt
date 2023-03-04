@@ -1,0 +1,11 @@
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\bin\Debug\netcoreapp2.1\p2_2.deps.json
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\bin\Debug\netcoreapp2.1\p2_2.runtimeconfig.json
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\bin\Debug\netcoreapp2.1\p2_2.runtimeconfig.dev.json
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\bin\Debug\netcoreapp2.1\p2_2.dll
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\bin\Debug\netcoreapp2.1\p2_2.pdb
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.csprojAssemblyReference.cache
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.csproj.CoreCompileInputs.cache
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.AssemblyInfoInputs.cache
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.AssemblyInfo.cs
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.dll
+C:\Users\gr623_izdyur\Desktop\gr666\p2_2\p2_2\obj\Debug\netcoreapp2.1\p2_2.pdb
