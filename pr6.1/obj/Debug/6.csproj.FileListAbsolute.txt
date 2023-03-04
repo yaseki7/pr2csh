@@ -1,0 +1,11 @@
+C:\Users\Егор Панда\source\repos\6\6\bin\Debug\6.exe.config
+C:\Users\Егор Панда\source\repos\6\6\bin\Debug\6.exe
+C:\Users\Егор Панда\source\repos\6\6\bin\Debug\6.pdb
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.exe
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.pdb
+C:\Users\Егор Панда\source\repos\6\6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Егор Панда\source\repos\6\6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Егор Панда\source\repos\6\6\obj\Debug\6.csproj.CopyComplete
